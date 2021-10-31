@@ -1,15 +1,12 @@
-### HCMUS Moodle Improved
+### TruyenTranh8 Navigate
 
 ### Features
 
-- Tự động đăng nhập Moodle (trang hỗ trợ: https://courses.ctda.hcmus.edu.vn/)
+- Hỗ trợ các phím điều hướng Left/Right arrow và bảng điều khiển cho domain: http://truyentranh86.com/
 
 ### Screenshot
 
-![popup image](/images/popup.jpg)
-![not-set](/images/not-set.jpg)
-![login-set](/images/set.jpg)
-![wrong-login](/images/wrong-login.jpg)
+![1](/images/1.png)
 
 ### Installation
 
